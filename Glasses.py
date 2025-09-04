@@ -86,13 +86,18 @@ for tile in product_tiles:
     discount = discount_tag.text if discount_tag else None
 
     # Assignment: Add the category
-            
+    # Extract category from URL,since its not inside each product tile but on page url
+    category_tag = page.find(class_='category-title-page')
+    page_category = category_tag.get_text(strip=True) if category_tag else url.split("/")[-1]
+
+         
     data = {
         'Brand': brand,
         'Product_Name': name,
         'Former_Price': former_price,
         'Current_Price': current_price,
-        'Discount': discount
+        'Discount': discount,
+        'Category': page_category
     }
     # Append data to the list
     glasses_data.append(data)
