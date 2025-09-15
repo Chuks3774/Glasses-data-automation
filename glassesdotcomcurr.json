@@ -2,209 +2,157 @@
     {
         "Brand": "Oakley",
         "Product_Name": "OX5152 Wire Tap 2.0",
-        "Former_Price": 387.0,
-        "Current_Price": null,
-        "Discount": null,
+        "Price": 387.0,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Ray-Ban",
         "Product_Name": "RB3947V Round Gaze",
-        "Former_Price": 210.0,
-        "Current_Price": null,
-        "Discount": null,
+        "Price": 210.0,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Michael Kors",
         "Product_Name": "MK3070 Crested Butte",
-        "Former_Price": 164.0,
-        "Current_Price": null,
-        "Discount": null,
+        "Price": 164.0,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Armani Exchange",
         "Product_Name": "AX1018",
-        "Former_Price": 153.0,
-        "Current_Price": null,
-        "Discount": null,
+        "Price": 153.0,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Coach",
         "Product_Name": "HC6197U",
-        "Former_Price": 219.0,
-        "Current_Price": null,
-        "Discount": null,
+        "Price": 219.0,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Ray-Ban",
         "Product_Name": "RB3447V Round Metal Optics",
-        "Former_Price": 210.0,
-        "Current_Price": null,
-        "Discount": null,
+        "Price": 210.0,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Coach",
         "Product_Name": "HC6243U",
-        "Former_Price": 210.0,
-        "Current_Price": null,
-        "Discount": null,
+        "Price": 210.0,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Ray-Ban",
         "Product_Name": "RB5169 Optics",
-        "Former_Price": 186.0,
-        "Current_Price": null,
-        "Discount": null,
+        "Price": 186.0,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Michael Kors",
         "Product_Name": "MK4135U Tortola",
-        "Former_Price": 161.0,
-        "Current_Price": null,
-        "Discount": null,
+        "Price": 161.0,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Tory Burch",
         "Product_Name": "TY2142U",
-        "Former_Price": 208.0,
-        "Current_Price": null,
-        "Discount": null,
+        "Price": 208.0,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Vogue Eyewear",
         "Product_Name": "VO5420",
-        "Former_Price": 128.0,
-        "Current_Price": null,
-        "Discount": null,
+        "Price": 128.0,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Scuderia Ferrari",
         "Product_Name": "FZ7002",
-        "Former_Price": 191.0,
-        "Current_Price": null,
-        "Discount": null,
+        "Price": 191.0,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Ray-Ban",
         "Product_Name": "RB3758V Ari Optics",
-        "Former_Price": 176.0,
-        "Current_Price": null,
-        "Discount": null,
+        "Price": 176.0,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Scuderia Ferrari",
         "Product_Name": "FZ8006",
-        "Former_Price": 154.0,
-        "Current_Price": null,
-        "Discount": null,
+        "Price": 154.0,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Ray-Ban",
         "Product_Name": "RB7046 Erika Optics",
-        "Former_Price": 176.0,
-        "Current_Price": null,
-        "Discount": null,
+        "Price": 176.0,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Polo Ralph Lauren",
         "Product_Name": "PH2237U",
-        "Former_Price": 167.0,
-        "Current_Price": null,
-        "Discount": null,
+        "Price": 167.0,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Ray-Ban",
         "Product_Name": "RB5440 Optics",
-        "Former_Price": 189.0,
-        "Current_Price": null,
-        "Discount": null,
+        "Price": 189.0,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Oakley",
         "Product_Name": "OX3222 Steel Plate™",
-        "Former_Price": 255.0,
-        "Current_Price": null,
-        "Discount": null,
+        "Price": 255.0,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Versace",
         "Product_Name": "VE3304",
-        "Former_Price": 286.0,
-        "Current_Price": null,
-        "Discount": null,
+        "Price": 286.0,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Ralph by Ralph Lauren",
         "Product_Name": "RA7089",
-        "Former_Price": 157.0,
-        "Current_Price": null,
-        "Discount": null,
+        "Price": 157.0,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Ray-Ban",
         "Product_Name": "RB3857V Frank Optics",
-        "Former_Price": 210.0,
-        "Current_Price": null,
-        "Discount": null,
+        "Price": 210.0,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Oakley",
         "Product_Name": "OX5099 TinCup™ 0.5 Ti",
-        "Former_Price": 414.0,
-        "Current_Price": null,
-        "Discount": null,
+        "Price": 414.0,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Ray-Ban",
         "Product_Name": "RB6238 Optics",
-        "Former_Price": 222.0,
-        "Current_Price": null,
-        "Discount": null,
+        "Price": 222.0,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Vogue Eyewear",
         "Product_Name": "VO5518",
-        "Former_Price": 128.0,
-        "Current_Price": null,
-        "Discount": null,
+        "Price": 128.0,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Ralph by Ralph Lauren",
         "Product_Name": "RA7146",
-        "Former_Price": 141.0,
-        "Current_Price": null,
-        "Discount": null,
+        "Price": 141.0,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Vogue Eyewear",
         "Product_Name": "VO5424B",
-        "Former_Price": 167.0,
-        "Current_Price": null,
-        "Discount": null,
+        "Price": 167.0,
         "Category": "prescription eyeglasses and frames"
     }
 ]
