@@ -1,0 +1,132 @@
+[
+    {
+        "brand": "Coach",
+        "name": "HC6243U",
+        "price": "$ 210.00"
+    },
+    {
+        "brand": "Michael Kors",
+        "name": "MK3070 Crested Butte",
+        "price": "$ 164.00"
+    },
+    {
+        "brand": "Ray-Ban",
+        "name": "RB3758V Ari Optics",
+        "price": "$ 176.00"
+    },
+    {
+        "brand": "Michael Kors",
+        "name": "MK4135U Tortola",
+        "price": "$ 161.00"
+    },
+    {
+        "brand": "Versace",
+        "name": "VE3304",
+        "price": "$ 286.00"
+    },
+    {
+        "brand": "Armani Exchange",
+        "name": "AX1018",
+        "price": "$ 153.00"
+    },
+    {
+        "brand": "Scuderia Ferrari",
+        "name": "FZ7002",
+        "price": "$ 191.00"
+    },
+    {
+        "brand": "Vogue Eyewear",
+        "name": "VO5424B",
+        "price": "$ 167.00"
+    },
+    {
+        "brand": "Ralph by Ralph Lauren",
+        "name": "RA7146",
+        "price": "$ 141.00"
+    },
+    {
+        "brand": "Scuderia Ferrari",
+        "name": "FZ8006",
+        "price": "$ 154.00"
+    },
+    {
+        "brand": "Oakley",
+        "name": "OX5099 TinCup™ 0.5 Ti",
+        "price": "$ 414.00"
+    },
+    {
+        "brand": "Ray-Ban",
+        "name": "RB7046 Erika Optics",
+        "price": "$ 176.00"
+    },
+    {
+        "brand": "Ray-Ban",
+        "name": "RB3447V Round Metal Optics",
+        "price": "$ 210.00"
+    },
+    {
+        "brand": "Ray-Ban",
+        "name": "RB5440 Optics",
+        "price": "$ 189.00"
+    },
+    {
+        "brand": "Ray-Ban",
+        "name": "RB6238 Optics",
+        "price": "$ 222.00"
+    },
+    {
+        "brand": "Ray-Ban",
+        "name": "RB3857V Frank Optics",
+        "price": "$ 210.00"
+    },
+    {
+        "brand": "Oakley",
+        "name": "OX3222 Steel Plate™",
+        "price": "$ 255.00"
+    },
+    {
+        "brand": "Oakley",
+        "name": "OX5152 Wire Tap 2.0",
+        "price": "$ 387.00"
+    },
+    {
+        "brand": "Ray-Ban",
+        "name": "RB5169 Optics",
+        "price": "$ 186.00"
+    },
+    {
+        "brand": "Ray-Ban",
+        "name": "RB3947V Round Gaze",
+        "price": "$ 210.00"
+    },
+    {
+        "brand": "Tory Burch",
+        "name": "TY2142U",
+        "price": "$ 208.00"
+    },
+    {
+        "brand": "Polo Ralph Lauren",
+        "name": "PH2237U",
+        "price": "$ 167.00"
+    },
+    {
+        "brand": "Coach",
+        "name": "HC6197U",
+        "price": "$ 219.00"
+    },
+    {
+        "brand": "Vogue Eyewear",
+        "name": "VO5518",
+        "price": "$ 128.00"
+    },
+    {
+        "brand": "Ralph by Ralph Lauren",
+        "name": "RA7089",
+        "price": "$ 157.00"
+    },
+    {
+        "brand": "Vogue Eyewear",
+        "name": "VO5420",
+        "price": "$ 128.00"
+    }
+]
