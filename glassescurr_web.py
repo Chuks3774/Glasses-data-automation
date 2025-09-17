@@ -1,4 +1,4 @@
-# glasses.py — single-price version for glasses.com
+# glasses.py — single-price + badges for glasses.com
 
 import csv
 import json
@@ -84,22 +84,29 @@ for tile in tiles:
     price = None
     price_cnt = info.find("div", class_="product-prices") if info else None
     if price_cnt:
-        # most commonly one of these:
         price_el = price_cnt.select_one(
             ".product-list-price, .product-offer-price, .product-price, .price-now"
         )
         if price_el:
             price = clean_price_to_float(price_el.get_text(strip=True))
         else:
-            # final fallback: scan any money-looking text inside the container
             raw = price_cnt.get_text(" ", strip=True)
             m = re.search(r'[$£€]\s*\d[\d,]*(?:\.\d+)?', raw)
             price = clean_price_to_float(m.group(0)) if m else None
+
+    # Badges (e.g., "Best Seller", "Sustainable")
+    # They live in the product "top" area above the image
+    badge_first_el = tile.select_one(".product-badge.first-badge, .badge.first-badge")
+    badge_second_el = tile.select_one(".product-badge.second-badge, .badge.second-badge")
+    badge_first = badge_first_el.get_text(strip=True) if badge_first_el else None
+    badge_second = badge_second_el.get_text(strip=True) if badge_second_el else None
 
     records.append({
         "Brand": brand,
         "Product_Name": name,
         "Price": price,
+        "Badge_First": badge_first,
+        "Badge_Second": badge_second,
         "Category": category
     })
 
@@ -118,3 +125,4 @@ else:
 
 driver.quit()
 print("End of Web Extraction")
+

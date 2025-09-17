@@ -3,156 +3,208 @@
         "Brand": "Oakley",
         "Product_Name": "OX5152 Wire Tap 2.0",
         "Price": 387.0,
+        "Badge_First": null,
+        "Badge_Second": null,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Ray-Ban",
         "Product_Name": "RB3947V Round Gaze",
         "Price": 210.0,
+        "Badge_First": "Best Seller",
+        "Badge_Second": null,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Michael Kors",
         "Product_Name": "MK3070 Crested Butte",
         "Price": 164.0,
+        "Badge_First": null,
+        "Badge_Second": null,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Armani Exchange",
         "Product_Name": "AX1018",
         "Price": 153.0,
+        "Badge_First": "Best Seller",
+        "Badge_Second": null,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Coach",
         "Product_Name": "HC6197U",
         "Price": 219.0,
+        "Badge_First": null,
+        "Badge_Second": "Universal Fit",
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Ray-Ban",
         "Product_Name": "RB3447V Round Metal Optics",
         "Price": 210.0,
+        "Badge_First": "Best Seller",
+        "Badge_Second": null,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Coach",
         "Product_Name": "HC6243U",
         "Price": 210.0,
+        "Badge_First": null,
+        "Badge_Second": "Universal Fit",
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Ray-Ban",
         "Product_Name": "RB5169 Optics",
         "Price": 186.0,
+        "Badge_First": "Best Seller",
+        "Badge_Second": null,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Michael Kors",
         "Product_Name": "MK4135U Tortola",
         "Price": 161.0,
+        "Badge_First": null,
+        "Badge_Second": "Universal Fit",
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Tory Burch",
         "Product_Name": "TY2142U",
         "Price": 208.0,
+        "Badge_First": null,
+        "Badge_Second": "Sustainable",
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Vogue Eyewear",
         "Product_Name": "VO5420",
         "Price": 128.0,
+        "Badge_First": null,
+        "Badge_Second": null,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Scuderia Ferrari",
         "Product_Name": "FZ7002",
         "Price": 191.0,
+        "Badge_First": null,
+        "Badge_Second": "Sustainable",
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Ray-Ban",
         "Product_Name": "RB3758V Ari Optics",
         "Price": 176.0,
+        "Badge_First": "New arrival",
+        "Badge_Second": null,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Scuderia Ferrari",
         "Product_Name": "FZ8006",
         "Price": 154.0,
+        "Badge_First": null,
+        "Badge_Second": "Sustainable",
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Ray-Ban",
         "Product_Name": "RB7046 Erika Optics",
         "Price": 176.0,
+        "Badge_First": "Best Seller",
+        "Badge_Second": null,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Polo Ralph Lauren",
         "Product_Name": "PH2237U",
         "Price": 167.0,
+        "Badge_First": "Best Seller",
+        "Badge_Second": "Universal Fit",
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Ray-Ban",
         "Product_Name": "RB5440 Optics",
         "Price": 189.0,
+        "Badge_First": "New arrival",
+        "Badge_Second": null,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Oakley",
         "Product_Name": "OX3222 Steel Plate™",
         "Price": 255.0,
+        "Badge_First": "Best Seller",
+        "Badge_Second": null,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Versace",
         "Product_Name": "VE3304",
         "Price": 286.0,
+        "Badge_First": null,
+        "Badge_Second": null,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Ralph by Ralph Lauren",
         "Product_Name": "RA7089",
         "Price": 157.0,
+        "Badge_First": "Best Seller",
+        "Badge_Second": null,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Ray-Ban",
         "Product_Name": "RB3857V Frank Optics",
         "Price": 210.0,
+        "Badge_First": null,
+        "Badge_Second": null,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Oakley",
         "Product_Name": "OX5099 TinCup™ 0.5 Ti",
         "Price": 414.0,
+        "Badge_First": "Best Seller",
+        "Badge_Second": null,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Ray-Ban",
         "Product_Name": "RB6238 Optics",
         "Price": 222.0,
+        "Badge_First": null,
+        "Badge_Second": null,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Vogue Eyewear",
         "Product_Name": "VO5518",
         "Price": 128.0,
+        "Badge_First": null,
+        "Badge_Second": null,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Ralph by Ralph Lauren",
         "Product_Name": "RA7146",
         "Price": 141.0,
+        "Badge_First": null,
+        "Badge_Second": null,
         "Category": "prescription eyeglasses and frames"
     },
     {
         "Brand": "Vogue Eyewear",
         "Product_Name": "VO5424B",
         "Price": 167.0,
+        "Badge_First": null,
+        "Badge_Second": null,
         "Category": "prescription eyeglasses and frames"
     }
 ]
